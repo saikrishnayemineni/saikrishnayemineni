@@ -1,26 +1,27 @@
 <div align="center">
 
-<p align="center">
   <a href="https://sai-krishna-portfolio-drab.vercel.app">
-    <img src="assets/sai-krishna-portrait-circle.png" width="165" alt="Sai Krishna Yemineni" />
+    <img src="assets/sai-krishna-portrait-circle.png" width="145" alt="Sai Krishna Yemineni" />
   </a>
-</p>
 
-# ⚡ Sai Krishna Yemineni
+  <h1>⚡ Sai Krishna Yemineni</h1>
 
-### 🧠 Production AI/ML Engineer · Agentic AI · LLMOps · Healthcare AI Systems
-**Johnson & Johnson** *(Active)* • **Ex-Deloitte** • **Rivier University (M.S. Computer Science)**
+  <p>
+    <b>🧠 Production AI/ML Engineer · Agentic AI · LLMOps · Healthcare AI Systems</b><br />
+    <i>Johnson & Johnson (Active) • Ex-Deloitte • Rivier University (M.S. Computer Science)</i>
+  </p>
 
-<p align="center">
-  <a href="https://sai-krishna-portfolio-drab.vercel.app"><img src="https://img.shields.io/badge/🌐_Interactive_Bento_Portfolio-00F0FF?style=for-the-badge&logoColor=black&labelColor=090d16" alt="Live Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/sai-krishna-y-b8a04a293"><img src="https://img.shields.io/badge/💼_LinkedIn_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=090d16" alt="LinkedIn" /></a>
-  <a href="mailto:saikrishnayemineni0428@gmail.com"><img src="https://img.shields.io/badge/📬_Direct_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=090d16" alt="Email" /></a>
-  <a href="https://github.com/saikrishnayemineni?tab=repositories"><img src="https://img.shields.io/badge/🐙_10_Production_Repos-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=090d16" alt="GitHub Repos" /></a>
-</p>
+  <p>
+    <a href="https://sai-krishna-portfolio-drab.vercel.app"><img src="https://img.shields.io/badge/Live_Portfolio-00F0FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Portfolio" /></a>&nbsp;
+    <a href="https://www.linkedin.com/in/sai-krishna-y-b8a04a293"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+    <a href="mailto:saikrishnayemineni0428@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
+    <a href="https://github.com/saikrishnayemineni?tab=repositories"><img src="https://img.shields.io/badge/10_AI_Projects-10B981?style=for-the-badge&logo=github&logoColor=white" alt="10 AI Projects" /></a>&nbsp;
+    <img src="https://komarev.com/ghpvc/?username=saikrishnayemineni&color=00F0FF&style=for-the-badge&label=VIEWS" alt="Profile Views" />
+  </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=750&lines=Agentic+AI+Architectures+%26+LangGraph+Multi-Agent+Workflows;High-Throughput+Hybrid+RAG+with+Cross-Encoder+Reranking;Clinical+LLM+Fine-Tuning+(4-bit+DoRA%2C+DPO+%26+vLLM+PagedAttention);Production+MLOps+Drift+Pipelines+%26+Continuous+Retraining;Real-Time+Biometric+Streaming+with+Apache+Kafka+%26+FFT+DSP" alt="Typing SVG" />
-</p>
+  <p>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=750&lines=Agentic+AI+Architectures+%26+LangGraph+Multi-Agent+Workflows;High-Throughput+Hybrid+RAG+with+Cross-Encoder+Reranking;Clinical+LLM+Fine-Tuning+(4-bit+DoRA%2C+DPO+%26+vLLM+PagedAttention);Production+MLOps+Drift+Pipelines+%26+Continuous+Retraining;Real-Time+Biometric+Streaming+with+Apache+Kafka+%26+FFT+DSP" alt="Typing SVG" />
+  </p>
 
 </div>
 
@@ -128,12 +129,12 @@ All 10 repositories below are fully developed, Dockerized, tested with automated
 
 ---
 
-## 📊 Live GitHub Analytics & Repository Activity
+## 📊 Live GitHub Analytics & Repository Metrics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=saikrishnayemineni&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sai's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikrishnayemineni&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saikrishnayemineni&theme=tokyonight" alt="GitHub Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saikrishnayemineni&theme=tokyonight" alt="Languages Breakdown" />
 
 </div>
 
