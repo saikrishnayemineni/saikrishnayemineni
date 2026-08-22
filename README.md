@@ -1,7 +1,9 @@
 <div align="center">
 
 <p align="center">
-  <a href="https://sai-krishna-portfolio-drab.vercel.app"><img src="assets/sai-krishna-portrait-circle.png" width="165" alt="Sai Krishna Yemineni" /></a>
+  <a href="https://sai-krishna-portfolio-drab.vercel.app">
+    <img src="assets/sai-krishna-portrait-circle.png" width="165" alt="Sai Krishna Yemineni" />
+  </a>
 </p>
 
 # ⚡ Sai Krishna Yemineni
