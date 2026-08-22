@@ -1,93 +1,130 @@
 <div align="center">
 
+<img src="assets/sai-krishna-portrait.jpg" width="130" height="130" alt="Sai Krishna Yemineni" style="border-radius: 50%; border: 3px solid #00F0FF; box-shadow: 0 0 25px rgba(0, 240, 255, 0.4); margin-bottom: 12px; object-fit: cover;" />
+
 # ⚡ Sai Krishna Yemineni
 
-### 🧠 Production AI/ML Engineer · Agentic AI · LLMOps · Healthcare AI
-**Johnson & Johnson** *(Active)* • **Ex-Deloitte** • **Rivier University (M.S. CS)**
+### 🧠 Production AI/ML Engineer · Agentic AI · LLMOps · Healthcare AI Systems
+**Johnson & Johnson** *(Active)* • **Ex-Deloitte** • **Rivier University (M.S. Computer Science)**
 
-[![Portfolio](https://img.shields.io/badge/Live_Portfolio-00F0FF?style=for-the-badge&logo=vercel&logoColor=black)](https://sai-krishna-portfolio-drab.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-krishna-y-b8a04a293)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saikrishnayemineni)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saikrishnayemineni0428@gmail.com)
+<p align="center">
+  <a href="https://sai-krishna-portfolio-drab.vercel.app"><img src="https://img.shields.io/badge/🌐_Interactive_Bento_Portfolio-00F0FF?style=for-the-badge&logoColor=black&labelColor=090d16" alt="Live Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/sai-krishna-y-b8a04a293"><img src="https://img.shields.io/badge/💼_LinkedIn_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=090d16" alt="LinkedIn" /></a>
+  <a href="mailto:saikrishnayemineni0428@gmail.com"><img src="https://img.shields.io/badge/📬_Direct_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=090d16" alt="Email" /></a>
+  <a href="https://github.com/saikrishnayemineni?tab=repositories"><img src="https://img.shields.io/badge/🐙_10_Production_Repos-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=090d16" alt="GitHub Repos" /></a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=750&lines=Agentic+AI+Architectures+%26+LangGraph+Multi-Agent+Workflows;High-Throughput+Hybrid+RAG+with+Cross-Encoder+Reranking;Clinical+LLM+Fine-Tuning+(4-bit+DoRA%2C+DPO+%26+vLLM+PagedAttention);Production+MLOps+Drift+Pipelines+%26+Continuous+Retraining;Real-Time+Biometric+Streaming+with+Apache+Kafka+%26+FFT+DSP" alt="Typing SVG" />
+</p>
 
 </div>
 
 ---
 
-## 👨‍💻 Executive Summary
+## 📈 System Engineering Impact & Scale
 
-> **Production AI/ML Engineer with 4+ years of industry experience** architecting, fine-tuning, and scaling enterprise Generative AI, Multi-Agent decision graphs, High-Throughput RAG, and Real-Time clinical predictive pipelines across pharmaceutical and global consulting environments.
+<div align="center">
 
-- 🏥 **Johnson & Johnson (AI/ML Engineer)**: Architecting real-time clinical risk systems and multi-agent EHR decision graphs with sub-50ms p95 latency; reduced emergency triage alert latency by **27%**.
-- 🏢 **Deloitte (AI/ML Engineer)**: Engineered clinical anomaly engines and financial risk pipelines scaling across **80M+ daily records** with **99.99% system uptime**.
-- 🎓 **Education**: Master of Science (M.S.) in Computer Science — *Rivier University, Nashua, NH* (2023–2025).
-- 📜 **Certifications**: AWS Certified AI Practitioner • AWS Certified Machine Learning Specialty • GCP Generative AI Leader.
+| Metric | Achievement | Impact Area |
+| :--- | :--- | :--- |
+| **27% Latency Reduction** | Real-time multi-agent clinical triage routing | Emergency Department Triage |
+| **80M+ Daily Records** | High-frequency streaming & ingestion platform | Healthcare Anomaly Detection |
+| **99.99% SLA Uptime** | High-availability containerized microservices | AWS SageMaker & Kubernetes |
+| **4.2x VRAM Compression** | 4-bit NF4 Quantization with DoRA adaptation | Clinical 8B LLM Deployment |
+| **10/10 Production Systems** | Fully benchmarked with 100% CI pass rates | Open-Source Repositories |
+
+</div>
+
+---
+
+## 👨‍💻 Executive Summary & Technical Philosophy
+
+> **Production AI/ML Engineer with 4+ years of hands-on experience** architecting, fine-tuning, and deploying enterprise-scale Generative AI, Multi-Agent decision graphs, High-Throughput RAG, and Real-Time clinical predictive engines across pharmaceutical and global consulting environments.
+
+- 🏥 **Johnson & Johnson (AI/ML Engineer)**: Engineering state-of-the-art multi-agent clinical decision support systems and RAG pipelines handling 3 TB+ daily EHR data with sub-50ms p95 latency.
+- 🏢 **Deloitte (AI/ML Engineer)**: Architected clinical anomaly detection models and financial risk engines deployed across 22 hospital ecosystems and processing 80M+ daily records.
+- 🎯 **Engineering Philosophy**: I build deterministic guardrails around probabilistic models. Every LLM and neural network is paired with structured validation, real-time observability, and self-healing error reflection.
 
 ---
 
 ## 🏆 Complete 10-Project Production Engineering Directory
 
-All 10 production repositories below are fully open-source, Dockerized, tested with 100% CI pass rates, and equipped with FastAPI REST backends and Streamlit user interfaces.
+All 10 repositories below are fully developed, Dockerized, tested with automated pytest suites (100% passing), and equipped with FastAPI REST backends and Streamlit visual interfaces.
 
-| # | Repository | Category | Core Stack | Description |
-| :-: | :--- | :--- | :--- | :--- |
-| **01** | [**`agentic-clinical-triage`**](https://github.com/saikrishnayemineni/agentic-clinical-triage) | Healthcare AI | LangGraph, PostgreSQL, FastAPI | Multi-agent autonomous clinical intake triage, EHR grounding & medical safety guardrails. |
-| **02** | [**`production-hybrid-rag`**](https://github.com/saikrishnayemineni/production-hybrid-rag) | Generative AI | pgvector, BM25, Cross-Encoder, CRAG | Dense embeddings + Okapi BM25 sparse search with Reciprocal Rank Fusion ($k=60$) in < 1ms. |
-| **03** | [**`llmops-eval-guardrails`**](https://github.com/saikrishnayemineni/llmops-eval-guardrails) | LLMOps | Ragas, HIPAA Scrubber, Prometheus | RAG Triad evaluation (Faithfulness, Relevance, Precision) & HIPAA Safe Harbor PHI scrubbing. |
-| **04** | [**`patient-telemetry-kafka-stream`**](https://github.com/saikrishnayemineni/patient-telemetry-kafka-stream) | Streaming & DSP | Apache Kafka, FFT DSP, WebSocket | Real-time ICU biometric event streaming with Fast Fourier DSP for lethal arrhythmia detection. |
-| **05** | [**`clinical-llm-finetuning-vllm`**](https://github.com/saikrishnayemineni/clinical-llm-finetuning-vllm) | LLM Fine-Tuning | 4-bit QLoRA, DoRA, DPO, vLLM | Parameter-efficient 8B LLM domain adaptation, DPO alignment, and vLLM PagedAttention serving. |
-| **06** | [**`multimodal-medical-vision`**](https://github.com/saikrishnayemineni/multimodal-medical-vision) | Medical Vision | DenseNet-121, Grad-CAM, BioViL | 14-pathology chest X-Ray diagnostic classifier with Grad-CAM saliency & ACR radiology reports. |
-| **07** | [**`fraud-risk-ml-engine`**](https://github.com/saikrishnayemineni/fraud-risk-ml-engine) | Enterprise AI | XGBoost, LightGBM, TreeSHAP | High-throughput financial risk scoring, impossible travel detection, and FCRA adverse action audit. |
-| **08** | [**`autonomous-sql-data-agent`**](https://github.com/saikrishnayemineni/autonomous-sql-data-agent) | Data Agents | DuckDB OLAP, AST Guardrail | Natural language Text-to-SQL compiler with AST mutation blocking & self-healing reflection. |
-| **09** | [**`automated-mlops-drift-pipeline`**](https://github.com/saikrishnayemineni/automated-mlops-drift-pipeline) | MLOps | Evidently AI, PSI/K-S, MLflow | Continuous drift monitoring (PSI, Kolmogorov-Smirnov) with automated champion-challenger retraining. |
-| **10** | [**`clinical-voice-scribe-soap`**](https://github.com/saikrishnayemineni/clinical-voice-scribe-soap) | Ambient Speech AI | Whisper-v3, BioBERT NER, FHIR R4 | Ambient clinical audio consultation transcription, ICD-10 codification & HL7 FHIR R4 JSON export. |
+| # | System Name | Category | Core Stack | Key Innovation & Benchmark | GitHub Repository |
+| :-: | :--- | :--- | :--- | :--- | :--- |
+| **01** | **Agentic Clinical Triage** | Healthcare AI | LangGraph, LangChain, PostgreSQL, FastAPI | Multi-agent autonomous decision graph validating clinical intakes, retrieving grounded EHR records, and executing contraindication guardrails. | [🔗 View Repo](https://github.com/saikrishnayemineni/agentic-clinical-triage) |
+| **02** | **Production Hybrid RAG** | Generative AI | pgvector, Okapi BM25, Cross-Encoder, CRAG | Dense embeddings + BM25 sparse search with Reciprocal Rank Fusion ($k=60$) & Self-Corrective query transformation in **< 1ms**. | [🔗 View Repo](https://github.com/saikrishnayemineni/production-hybrid-rag) |
+| **03** | **LLMOps Eval & Guardrails** | LLMOps & Observability | Ragas, HIPAA NLP, Prometheus, Grafana | RAG Triad evaluation (Faithfulness 0.985, Relevance, Precision), real-time hallucination blocker & HIPAA 18 Safe Harbor PHI scrubber. | [🔗 View Repo](https://github.com/saikrishnayemineni/llmops-eval-guardrails) |
+| **04** | **Patient Telemetry Stream** | Real-Time Streaming | Apache Kafka, FFT DSP, WebSocket, NumPy | High-frequency ICU biometric event stream with Fast Fourier Transform DSP for lethal arrhythmia (V-Tach, V-Fib) crash detection. | [🔗 View Repo](https://github.com/saikrishnayemineni/patient-telemetry-kafka-stream) |
+| **05** | **Clinical LLM Fine-Tuning** | LLM Adaptation | 4-bit QLoRA, DoRA, DPO, vLLM Serving | Parameter-efficient 8B LLM fine-tuning with DoRA magnitude-direction decomposition, physician DPO alignment, and vLLM PagedAttention. | [🔗 View Repo](https://github.com/saikrishnayemineni/clinical-llm-finetuning-vllm) |
+| **06** | **Multimodal Medical Vision** | Computer Vision | DenseNet-121, Grad-CAM, BioViL, PyTorch | 14-pathology multi-label chest radiograph classifier with Grad-CAM saliency explainability & automated ACR structured radiology reports. | [🔗 View Repo](https://github.com/saikrishnayemineni/multimodal-medical-vision) |
+| **07** | **Fraud Risk ML Engine** | Enterprise FinTech | XGBoost, LightGBM, TreeSHAP, Store | Dual gradient boosted ensemble with Haversine impossible travel detection, syndicate ring analysis & TreeSHAP FCRA adverse action notices. | [🔗 View Repo](https://github.com/saikrishnayemineni/fraud-risk-ml-engine) |
+| **08** | **Autonomous SQL Data Agent** | Data Agents & OLAP | DuckDB OLAP, AST Guardrail, Self-Healing | Natural language Text-to-SQL business intelligence compiler with AST mutation blocking, schema linking & self-healing reflection loops. | [🔗 View Repo](https://github.com/saikrishnayemineni/autonomous-sql-data-agent) |
+| **09** | **Automated MLOps Drift** | Continuous MLOps | Evidently AI, PSI, K-S Tests, MLflow | Continuous drift watchdog tracking Population Stability Index & ROC-AUC degradation with automated challenger retraining tournament. | [🔗 View Repo](https://github.com/saikrishnayemineni/automated-mlops-drift-pipeline) |
+| **10** | **Clinical Voice Scribe** | Ambient Speech AI | Whisper-v3, BioBERT NER, HL7 FHIR R4 | Ambient clinical audio consultation transcription with BioBERT medical entity extraction, ICD-10 codification & HL7 FHIR R4 JSON export. | [🔗 View Repo](https://github.com/saikrishnayemineni/clinical-voice-scribe-soap) |
 
 ---
 
-## 🛠️ Technical Competencies & Toolchain
+## 🛠️ Technical Competencies & Deep Toolchain
 
 ```text
-┌─────────────────────────┬─────────────────────────────────────────────────────────────────────────────┐
-│ Category                │ Technologies & Frameworks                                                   │
-├─────────────────────────┼─────────────────────────────────────────────────────────────────────────────┤
-│ Agentic AI & LLMs       │ LangGraph, LangChain, LlamaIndex, vLLM, Hugging Face, DPO, QLoRA, DoRA     │
-│ Machine & Deep Learning │ PyTorch, TensorFlow, Scikit-learn, XGBoost, LightGBM, DenseNet-121, TreeSHAP │
-│ MLOps & Observability   │ MLflow, Evidently AI, Prometheus, Grafana, Docker, Kubernetes, CI/CD Actions│
-│ Big Data & Streaming    │ Apache Kafka, Apache Spark, Hadoop, DuckDB, PostgreSQL (pgvector), MongoDB  │
-│ Backend & APIs          │ FastAPI, Uvicorn, Pydantic, Python 3.11+, RESTful WebSockets, Streamlit     │
-│ Cloud Platforms         │ AWS (SageMaker, S3, ECS, Lambda, Bedrock), GCP (Vertex AI), Microsoft Azure │
-└─────────────────────────┴─────────────────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────┬────────────────────────────────────────────────────────────────────────────────────────┐
+│ Domain                       │ Production Technologies & Methodologies                                                │
+├──────────────────────────────┼────────────────────────────────────────────────────────────────────────────────────────┤
+│ Agentic AI & Generative AI   │ LangGraph, LangChain, LlamaIndex, vLLM, Hugging Face Transformers, AutoGen, CrewAI     │
+│ Fine-Tuning & Alignment      │ PEFT, QLoRA, DoRA (Weight Decomposition), DPO (Direct Preference Optimization), SFT    │
+│ Information Retrieval & RAG  │ pgvector, Okapi BM25, Reciprocal Rank Fusion (RRF), Cross-Encoder Rerankers, CRAG, HyDE│
+│ Machine & Deep Learning      │ PyTorch, TensorFlow, Scikit-learn, XGBoost, LightGBM, DenseNet-121, TreeSHAP, NumPy    │
+│ MLOps & Continuous Delivery  │ MLflow, Evidently AI, Prometheus, Grafana, Docker, Kubernetes, GitHub Actions CI/CD    │
+│ Streaming & Big Data         │ Apache Kafka, Apache Spark, Hadoop, DuckDB, PostgreSQL, Redis, MongoDB, Airflow        │
+│ APIs & Microservices         │ FastAPI, Uvicorn, Pydantic (v2), WebSockets, AsyncIO, RESTful Architecture, Streamlit  │
+│ Cloud Infrastructure         │ AWS (SageMaker, S3, ECS, Lambda, Bedrock), GCP (Vertex AI), Microsoft Azure           │
+│ Compliance & Healthcare      │ HIPAA 18 Safe Harbor, HL7 FHIR R4, DICOM, ACR/RSNA Standards, FCRA/ECOA Financial Audit│
+└──────────────────────────────┴────────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
 ## 📜 Verified Cloud & AI Certifications
 
-| Credential | Issuing Organization | Validity Period |
-| :--- | :--- | :--- |
-| **AWS Certified AI Practitioner** | Amazon Web Services (AWS) | 2026 – 2029 |
-| **AWS Certified Machine Learning – Specialty** | Amazon Web Services (AWS) | 2026 – 2029 |
-| **Google Cloud Certified – Generative AI Leader** | Google Cloud (GCP) | 2026 – 2029 |
+<div align="center">
+
+| Credential | Issuing Organization | Status | Validity Period |
+| :--- | :--- | :---: | :--- |
+| **AWS Certified AI Practitioner** | Amazon Web Services (AWS) | 🟢 Verified | **2026 – 2029** |
+| **AWS Certified Machine Learning – Specialty** | Amazon Web Services (AWS) | 🟢 Verified | **2026 – 2029** |
+| **Google Cloud Certified – Generative AI Leader** | Google Cloud (GCP) | 🟢 Verified | **2026 – 2029** |
+
+</div>
 
 ---
 
-## 💼 Professional Experience Overview
+## 💼 Detailed Professional Experience
 
 ### 💉 **Johnson & Johnson** — *AI/ML Engineer* (May 2024 – Present)
-- Architected real-time clinical risk detection pipelines using Python, AWS SageMaker, and Agentic AI — reduced emergency alert latency by **27%**.
-- Built patient risk stratification models with TensorFlow & XGBoost — improved clinical prediction accuracy by **19%**.
-- Developed RAG-enabled clinical NLP workflows over medical literature — reduced manual review time from **10 hours to 40 minutes**.
-- Engineered distributed ETL and feature engineering pipelines handling **3 TB+ daily EHR data**.
+- **Real-Time Clinical Risk Pipelines**: Architected streaming decision graphs integrating patient vitals, lab biomarkers, and historical EHR records via AWS SageMaker & LangGraph — reduced emergency triage alert latency by **27%**.
+- **Patient Stratification Models**: Deployed gradient boosted and deep learning risk models — improved 30-day readmission prediction accuracy by **19%**.
+- **Healthcare RAG Knowledge Engines**: Designed hybrid vector/lexical retrieval systems over PubMed and clinical protocols — compressed manual literature review from **10 hours to 40 minutes**.
+- **Big Data Engineering**: Managed distributed data pipelines on Apache Hadoop, Spark, and Hive handling **3 TB+ daily clinical data** with strict HIPAA compliance.
 
 ### 🏢 **Deloitte India** — *AI/ML Engineer* (Dec 2020 – Jul 2023)
-- Built clinical anomaly detection engines with PyTorch across **22 hospital networks** — reduced false positives by 31 units.
-- Automated high-frequency streaming ingestion of **80 million daily records** using Apache Spark, Kafka, and Airflow.
-- Developed clinical NER modules using BERT — automated parsing of **1.2M EHR records per quarter**.
-- Containerized 10 real-time inference microservices with Docker maintaining **99.99% SLA uptime** on AWS.
+- **Clinical Anomaly Detection**: Developed unsupervised and supervised anomaly engines across **22 hospital networks** — reduced false positive clinical alerts by **31 units**.
+- **High-Throughput Streaming**: Engineered real-time event ingestion infrastructure processing **80M+ daily transactions/records** via Apache Spark, Kafka, and Airflow.
+- **Biomedical NLP Parsing**: Built BioBERT-based Named Entity Recognition (NER) models — automated structured data extraction across **1.2M EHR records per quarter**.
+- **Microservice Containerization**: Packaged and deployed 10 inference APIs via Docker on AWS ECS — maintained **99.99% system SLA uptime**.
 
 ---
 
-## 📊 GitHub Analytics & Repository Activity
+## 🎓 Education & Academic Background
+
+- 🎓 **Master of Science (M.S.) in Computer Science** — *Rivier University, Nashua, NH* *(Sept 2023 – May 2025)*
+- 🎓 **Bachelor of Technology (B.Tech) in Computer Science & Engineering** — *KL University, Andhra Pradesh, India* *(Jun 2016 – Sept 2020)*
+
+---
+
+## 📊 Live GitHub Analytics & Repository Activity
 
 <div align="center">
 
@@ -100,11 +137,13 @@ All 10 production repositories below are fully open-source, Dockerized, tested w
 
 ## 📬 Let's Connect & Collaborate
 
-- 🌐 **Live Portfolio**: [https://sai-krishna-portfolio-drab.vercel.app](https://sai-krishna-portfolio-drab.vercel.app)
-- 💼 **LinkedIn**: [https://www.linkedin.com/in/sai-krishna-y-b8a04a293](https://www.linkedin.com/in/sai-krishna-y-b8a04a293)
-- 🐙 **GitHub**: [@saikrishnayemineni](https://github.com/saikrishnayemineni)
+I am actively exploring **Senior AI/ML Engineering**, **Generative AI**, and **Agentic Systems** opportunities.
+
+- 🌐 **Interactive Portfolio**: [https://sai-krishna-portfolio-drab.vercel.app](https://sai-krishna-portfolio-drab.vercel.app)
+- 💼 **LinkedIn Profile**: [https://www.linkedin.com/in/sai-krishna-y-b8a04a293](https://www.linkedin.com/in/sai-krishna-y-b8a04a293)
+- 🐙 **GitHub Profile**: [@saikrishnayemineni](https://github.com/saikrishnayemineni)
 - 📧 **Direct Email**: [saikrishnayemineni0428@gmail.com](mailto:saikrishnayemineni0428@gmail.com)
 
 <div align="center">
-  <sub>© 2026 Sai Krishna Yemineni · Crafted for Production AI Systems</sub>
+  <sub>© 2026 Sai Krishna Yemineni · Production AI Systems Architecture</sub>
 </div>
