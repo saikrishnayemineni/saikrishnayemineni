@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="assets/sai-krishna-portrait.jpg" width="130" height="130" alt="Sai Krishna Yemineni" style="border-radius: 50%; border: 3px solid #00F0FF; box-shadow: 0 0 25px rgba(0, 240, 255, 0.4); margin-bottom: 12px; object-fit: cover;" />
+<p align="center">
+  <a href="https://sai-krishna-portfolio-drab.vercel.app"><img src="assets/sai-krishna-portrait-circle.png" width="165" alt="Sai Krishna Yemineni" /></a>
+</p>
 
 # ⚡ Sai Krishna Yemineni
 
